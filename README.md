@@ -1,0 +1,2 @@
+# MyJenkinsNetCore
+JenkinsTest
